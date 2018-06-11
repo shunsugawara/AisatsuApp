@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AisatsuApp</string>
+    <string name="timePickerDialog">時刻選択</string>
+</resources>
